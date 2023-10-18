@@ -1,4 +1,4 @@
-![image](https://github.com/krigerofc/app_musica/assets/118851624/a73c3486-3d9c-4cfa-92b8-c22572d4af95)<h1>App simples de música</h1>
+<h1>App simples de música</h1>
  
 >Tocador de música
 
